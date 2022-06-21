@@ -11,13 +11,13 @@
 	<li>Michael</li>
 	<li>Ramzan Kurbanov</li>
 	<li>Valeria Bozhko</li>
-	<li>Димон</li>
-	<li>Евгений Исупов</li>
-	<li>Илья Макаров</li>
-	<li>Макаренко Глеб</li>
-	<li>Мансур Минникаев</li>
-	<li>Маргарита Зайцева</li>
-	<li>Ольга Соловьева</li>
+	<li>Dimon</li>
+	<li>Eugene Isupov</li>
+	<li>Ilya Makarov</li>
+	<li>Makarenko Gleb</li>
+	<li>Mansur Minikaev</li>
+	<li>Margarita Zaytseva</li>
+	<li>Olga Solovieva</li>
 	<li>Jaroslav Apasov</li>
 </ul>
   
