@@ -19,8 +19,7 @@
 	<li>Margarita Zaytseva</li>
 	<li>Olga Solovieva</li>
 	<li>Jaroslav Apasov</li>
-	<li>Jaroslav Apasov</li>
-	<li>Jaroslav Apasov</li>
+
 </ul>
   
 </body>
